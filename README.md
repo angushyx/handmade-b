@@ -2,8 +2,10 @@
 
 此專案為 MFEE27 資策會前端工程師就業養成班 HANDMADE 後端，使用 Node.js，啟動專案請先依照 .env.example 設定好 .env 檔案並安裝好套件
 
-# HANDMADE 前端連結
-- [handmade-front-end](https://github.com/luluwater/handmade-fe)
+## HANDMADE 前端連結
+
+- ## [handmade-front-end](https://github.com/angushyx/handmade)
+- ## [handmade-backend](https://github.com/angushyx/handmade-b)
 
 # 專案環境
 
