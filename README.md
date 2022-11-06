@@ -2,6 +2,9 @@
 
 此專案為 MFEE27 資策會前端工程師就業養成班 HANDMADE 後端，使用 Node.js，啟動專案請先依照 .env.example 設定好 .env 檔案並安裝好套件
 
+# HANDMADE 前端連結
+- [handmade-front-end](https://github.com/luluwater/handmade-fe)
+
 # 專案環境
 
 - Git : `2.37.0.widows.1`
@@ -95,6 +98,3 @@ const getStoreCourse = async (req, res) => {
 - Using [dotenv](https://github.com/motdotla/dotenv) to help load the environment variables saved in .env file
 - Using [node-cron](https://github.com/node-cron/node-cron) as the task scheduler to automatically update order and meal data in the database
 - Using [moment.js](https://github.com/moment/moment/) to parse date and time that are consistent with front-end and database -->
-
-## HANDMADE 前端連結
-- ## [handmade-front-end](https://github.com/luluwater/handmade-fe)
